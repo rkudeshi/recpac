@@ -1,0 +1,18 @@
+<div id="all-submissions">
+
+{% assign submissions = site.data.comments | sort %}
+	
+	{% for submission in submissions reversed %}
+		{% assign submissionData = submission[1] %}
+
+		<p><strong>Name: </strong>{{ submissionData.name }}</p>
+		<p><strong>Area: </strong>{{ submissionData.area }}</p>
+		<p><strong>School: </strong>{{ submissionData.school }}</p>
+		<p><strong>Ideatype: </strong>{{ submissionData.ideatype }}</p>
+		<p><strong>Message: </strong>{{ submissionData.message }}</p>
+
+		<hr>
+		
+	{% endfor %}
+
+</div>
