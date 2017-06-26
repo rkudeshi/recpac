@@ -57,3 +57,8 @@ colors:
 
 kramdown:
   auto_ids:  false
+
+
+### CUSTOM
+
+locale: "en-US"
