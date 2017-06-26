@@ -516,14 +516,6 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-faq { border-color: lightskyblue; }
-  #faq { background-color: lightskyblue !important; color: #111111; }
-  #faq a { color: #111111; }
-  #faq .sectiondivider { color: lightskyblue; }
-
-  
-  
-  
   nav .p-forms { border-color: lightsalmon; }
   #forms { background-color: lightsalmon !important; color: #333; }
   #forms a { color: #333; }

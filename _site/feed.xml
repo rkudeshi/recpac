@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html" /><updated>2017-06-26T07:36:34-04:00</updated><id>http://localhost:4000///</id><title type="html">Rec-PAC 2017</title><subtitle>Summer camp in Fairfax County</subtitle><entry><title type="html">Ideas</title><link href="http://localhost:4000//ideas" rel="alternate" type="text/html" title="Ideas" /><published>2017-01-08T00:00:00-05:00</published><updated>2017-01-08T00:00:00-05:00</updated><id>http://localhost:4000//ideas</id><content type="html" xml:base="http://localhost:4000//ideas">&lt;h3&gt;&lt;strong&gt;Submit your idea!&lt;/strong&gt;&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html" /><updated>2017-06-26T07:37:33-04:00</updated><id>http://localhost:4000///</id><title type="html">Rec-PAC 2017</title><subtitle>Summer camp in Fairfax County</subtitle><entry><title type="html">Ideas</title><link href="http://localhost:4000//ideas" rel="alternate" type="text/html" title="Ideas" /><published>2017-01-08T00:00:00-05:00</published><updated>2017-01-08T00:00:00-05:00</updated><id>http://localhost:4000//ideas</id><content type="html" xml:base="http://localhost:4000//ideas">&lt;h3&gt;&lt;strong&gt;Submit your idea!&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;div id=&quot;raviform&quot;&gt;
 
@@ -70,50 +70,7 @@ Get a lot of obstacles and lay them out.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;/div&gt;</content><summary type="html">Submit your idea!</summary></entry><entry><title type="html">FAQs</title><link href="http://localhost:4000//faq" rel="alternate" type="text/html" title="FAQs" /><published>2017-01-08T00:00:00-05:00</published><updated>2017-01-08T00:00:00-05:00</updated><id>http://localhost:4000//faq</id><content type="html" xml:base="http://localhost:4000//faq">&lt;h3&gt;&lt;strong&gt;Frequently Asked Questions&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;div id=&quot;raviform&quot;&gt;
-
-&lt;form method=&quot;POST&quot; action=&quot;https://api.staticman.net/v2/entry/rkudeshi/recpac/master/comments&quot;&gt;
-  &lt;input name=&quot;options[redirect]&quot; type=&quot;hidden&quot; value=&quot;http://staff.recpacmap.com/form-submitted&quot; /&gt;
-  &lt;!-- e.g. &quot;2016-01-02-this-is-a-post&quot; --&gt;
-  &lt;input name=&quot;options[slug]&quot; type=&quot;hidden&quot; value=&quot;faq&quot; /&gt;
-  
-  &lt;label&gt;Name&lt;input name=&quot;fields[name]&quot; type=&quot;text&quot; /&gt;&lt;/label&gt;
-  
-  &lt;label&gt;Area
-  &lt;select name=&quot;fields[area]&quot;&gt;
-    &lt;option value=&quot;null&quot; selected=&quot;&quot;&gt;Please select an option...&lt;/option&gt;
-    &lt;option value=&quot;Area A&quot;&gt;Area A&lt;/option&gt;
-    &lt;option value=&quot;Area B&quot;&gt;Area B&lt;/option&gt;
-    &lt;option value=&quot;Area C&quot;&gt;Area C&lt;/option&gt;
-    &lt;option value=&quot;Area D&quot;&gt;Area D&lt;/option&gt;
-    &lt;option value=&quot;Area E&quot;&gt;Area E&lt;/option&gt;
-    &lt;option value=&quot;Area F&quot;&gt;Area F&lt;/option&gt;
-    &lt;option value=&quot;Area G&quot;&gt;Area G&lt;/option&gt;
-    &lt;option value=&quot;Area H&quot;&gt;Area H&lt;/option&gt;
-    &lt;option value=&quot;Area I&quot;&gt;Area I (Inclusion)&lt;/option&gt;
-  &lt;/select&gt;
-  &lt;/label&gt;
-  
-  &lt;label&gt;School&lt;input name=&quot;fields[school]&quot; type=&quot;text&quot; /&gt;&lt;/label&gt;
-    
-  &lt;label&gt;Area
-  &lt;select name=&quot;fields[ideatype]&quot;&gt;
-    &lt;option value=&quot;null&quot; selected=&quot;&quot;&gt;Please select an option...&lt;/option&gt;
-    &lt;option value=&quot;Special Event&quot;&gt;Special Event&lt;/option&gt;
-    &lt;option value=&quot;Creation Station&quot;&gt;Creation Station&lt;/option&gt;
-    &lt;option value=&quot;Gym game&quot;&gt;Gym game&lt;/option&gt;
-    &lt;option value=&quot;Other&quot;&gt;Other&lt;/option&gt;
-  &lt;/select&gt;
-  &lt;/label&gt;
-
-  &lt;label&gt;Message&lt;textarea rows=&quot;15&quot; name=&quot;fields[message]&quot;&gt;&lt;/textarea&gt;&lt;/label&gt;
-  
-  &lt;button type=&quot;submit&quot;&gt;Go!&lt;/button&gt;
-&lt;/form&gt;
-
-&lt;/div&gt;</content><summary type="html">Frequently Asked Questions</summary></entry><entry><title type="html">Binder</title><link href="http://localhost:4000//forms" rel="alternate" type="text/html" title="Binder" /><published>2017-01-07T00:00:00-05:00</published><updated>2017-01-07T00:00:00-05:00</updated><id>http://localhost:4000//forms</id><content type="html" xml:base="http://localhost:4000//forms">&lt;h3&gt;&lt;strong&gt;Staff Binder&lt;/strong&gt;&lt;/h3&gt;
+&lt;/div&gt;</content><summary type="html">Submit your idea!</summary></entry><entry><title type="html">Binder</title><link href="http://localhost:4000//forms" rel="alternate" type="text/html" title="Binder" /><published>2017-01-07T00:00:00-05:00</published><updated>2017-01-07T00:00:00-05:00</updated><id>http://localhost:4000//forms</id><content type="html" xml:base="http://localhost:4000//forms">&lt;h3&gt;&lt;strong&gt;Staff Binder&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;h3&gt;OVERVIEW&lt;/h3&gt;
 
