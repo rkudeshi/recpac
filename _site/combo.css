@@ -508,6 +508,14 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-ideas { border-color: lightskyblue; }
+  #ideas { background-color: lightskyblue !important; color: #111111; }
+  #ideas a { color: #111111; }
+  #ideas .sectiondivider { color: lightskyblue; }
+
+  
+  
+  
   nav .p-faq { border-color: lightskyblue; }
   #faq { background-color: lightskyblue !important; color: #111111; }
   #faq a { color: #111111; }
